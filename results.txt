@@ -1,0 +1,17 @@
+
+[*] Google Dorking Results for amazon.com: [2025-04-21 10:21:19]
+    [>] Open manually: https://www.google.com/search?q=inurl%3Aadmin%20site%3Aamazon.com
+    [>] Open manually: https://www.google.com/search?q=intitle%3A%22index%20of%22%20site%3Aamazon.com
+    [>] Open manually: https://www.google.com/search?q=filetype%3Apdf%20site%3Aamazon.com
+    [>] Open manually: https://www.google.com/search?q=inurl%3Alogin%20site%3Aamazon.com
+    [>] Open manually: https://www.google.com/search?q=site%3Aamazon.com%20ext%3Asql%20%7C%20ext%3Alog%20%7C%20ext%3Aconf
+
+
+[*] GitHub Dorking Results for amazon.com: [2025-04-21 10:21:19]
+    [>] Open manually: https://github.com/search?q=filename%3A.env%20amazon.com&type=code
+    [>] Open manually: https://github.com/search?q=filename%3Acredentials.json%20amazon.com&type=code
+    [>] Open manually: https://github.com/search?q=filename%3Aid_rsa%20amazon.com&type=code
+    [>] Open manually: https://github.com/search?q=filename%3A.git-credentials%20amazon.com&type=code
+    [>] Open manually: https://github.com/search?q=%22aws_access_key_id%22%20amazon.com&type=code
+    [>] Open manually: https://github.com/search?q=%22DB_PASSWORD%22%20amazon.com&type=code
+
