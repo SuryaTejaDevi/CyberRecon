@@ -1,62 +1,118 @@
-import argparse
+import urllib.parse
 import os
-import requests
+from datetime import datetime
+from rich.console import Console
 
-# Function to load dorks from a given file path
-def load_dorks(file_path):
+console = Console()
+
+# Clear the terminal screen
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
+# ASCII Banner
+def banner():
+    console.print("\n   (            )             )\ )                      ", style="bold cyan")
+    console.print("   )\  (     ( /(    (   (   (()/(   (                  ", style="bold cyan")
+    console.print("  (((_) )\ )  )\())  ))\  )(   /(_)) ))\  (   (    (     ", style="bold cyan")
+    console.print("  )\___(()/( ((_)\  /((_)(()\ (_))  /((_) )\  )\   )\ )  ", style="bold cyan")
+    console.print(" ((/ __|)(_))| |(_)(_))   ((_)| _ \(_))  ((_)((_) _(_/(  ", style="bold cyan")
+    console.print("  | (__| || || '_ \/ -_) | '_||   // -_)/ _|/ _ \| ' \)) ", style="bold cyan")
+    console.print("   \___|\_, ||_.__/\___| |_|  |_|_\\___|\__|\___/|_||_|  ", style="bold cyan")
+    console.print("        |__/                                              ", style="bold cyan")
+    print("=" * 60)
+
+# Save results to a file
+def save_results(data):
+    file_path = os.path.abspath("results.txt")
     try:
-        with open(file_path, 'r') as file:
-            return file.readlines()
-    except FileNotFoundError:
-        print(f"Error: Dork list not found: {file_path}")
-        exit(1)
+        with open(file_path, "a", encoding="utf-8") as file:
+            file.write(data + "\n")
+        console.print(f"[+] Results saved to: {file_path}\n", style="green")
+    except Exception as e:
+        console.print(f"[!] Failed to save results: {e}", style="bold red")
 
-# Function to run GitHub dorking
-def github_dorking(token, dorks):
-    print("Running GitHub dorking...")
-    headers = {
-        'Authorization': f'token {token}'
-    }
+# Get current time
+def get_timestamp():
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # Placeholder for your GitHub dorking code
-    for dork in dorks:
-        search_query = dork.strip()
-        url = f"https://api.github.com/search/code?q={search_query}"
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            print(f"Found {len(response.json()['items'])} results for dork: {search_query}")
-        else:
-            print(f"Error searching GitHub with dork: {search_query}. Status Code: {response.status_code}")
-    print("GitHub dorking completed.")
+# Google Dorking function
+def google_dorking(domain):
+    timestamp = get_timestamp()
+    queries = [
+        f'inurl:admin site:{domain}',
+        f'intitle:"index of" site:{domain}',
+        f'filetype:pdf site:{domain}',
+        f'inurl:login site:{domain}',
+        f'site:{domain} ext:sql | ext:log | ext:conf'
+    ]
 
-# Main function to parse arguments and run the appropriate tasks
+    results = f"\n[*] Google Dorking Results for {domain}: [{timestamp}]\n"
+    for query in queries:
+        url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
+        result_line = f"    [>] Open manually: {url}"
+        print(result_line)
+        results += result_line + "\n"
+
+    save_results(results)
+    return results
+
+# GitHub Dorking function
+def github_dorking(keyword):
+    timestamp = get_timestamp()
+    queries = [
+        f'filename:.env {keyword}',
+        f'filename:credentials.json {keyword}',
+        f'filename:id_rsa {keyword}',
+        f'filename:.git-credentials {keyword}',
+        f'"aws_access_key_id" {keyword}',
+        f'"DB_PASSWORD" {keyword}'
+    ]
+
+    results = f"\n[*] GitHub Dorking Results for {keyword}: [{timestamp}]\n"
+    for query in queries:
+        url = f"https://github.com/search?q={urllib.parse.quote(query)}&type=code"
+        result_line = f"    [>] Open manually: {url}"
+        print(result_line)
+        results += result_line + "\n"
+
+    save_results(results)
+    return results
+
+# Main menu
 def main():
-    # Create an argument parser
-    parser = argparse.ArgumentParser(description="CyberRecon: Automated GitHub & Google Dorking Tool")
-    parser.add_argument('--github', action='store_true', help="Run GitHub Dorking")
-    parser.add_argument('--google', action='store_true', help="Run Google Dorking")
-    parser.add_argument('--token', type=str, help="GitHub Personal Access Token", required=False)
-    args = parser.parse_args()
+    while True:
+        clear_screen()
+        banner()
+        print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("1. Google Dorking")
+        print("2. GitHub Dorking")
+        print("3. Both")
+        print("4. Exit")
 
-    # Absolute path to the github_dorks.txt file
-    github_dorks_path = "/home/kali/CyberRecon/CyberRecon/data/github_dorks.txt"
-    
-    # Load the GitHub dorks from the file
-    dorks = load_dorks(github_dorks_path)
+        choice = input("\nSelect an option: ").strip()
 
-    # If the --github flag is set, run GitHub dorking
-    if args.github:
-        if args.token:
-            print("GitHub token provided, proceeding with dorking...")
-            github_dorking(args.token, dorks)
+        if choice == '1':
+            domain = input("Enter the target domain (e.g., example.com): ").strip()
+            print()
+            google_dorking(domain)
+        elif choice == '2':
+            keyword = input("Enter target keyword or domain (e.g., amazon.com): ").strip()
+            print()
+            github_dorking(keyword)
+        elif choice == '3':
+            target = input("Enter target domain or keyword (e.g., example.com): ").strip()
+            print("\n[*] Starting Google Dorking...\n")
+            google_dorking(target)
+            print("\n[*] Starting GitHub Dorking...\n")
+            github_dorking(target)
+        elif choice == '4':
+            print("\nExiting... Stay safe, hacker!\n")
+            break
         else:
-            print("Error: GitHub token is required for GitHub dorking.")
-            exit(1)
+            print("\n[!] Invalid option. Try again.")
 
-    # Add similar logic here for Google Dorking if you need it
-    if args.google:
-        print("Google dorking functionality will go here.")
-        # Google dorking logic will be implemented later
+        input("\nPress Enter to continue...")
 
+# Run the tool
 if __name__ == "__main__":
     main()
