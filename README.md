@@ -1,38 +1,65 @@
-# CyberRecon - Automated Google & GitHub Dorking Tool
 
-## Overview
-CyberRecon is an automated reconnaissance tool designed for ethical hacking and bug bounty hunting. It performs Google Dorking and GitHub Dorking to uncover sensitive information, misconfigurations, and data leaks.
 
-### Features
-- **Google Dorking:** Searches for exposed files like `.env`, `.log`, `.json`, and more.
-- **GitHub Dorking:** Searches GitHub repositories for sensitive data like credentials, private keys, and configuration files.
-- **Output:** Results are saved in `.txt`, `.json`, and `.md` formats.
+# 🔍 Google Dorking Tool
 
-### Setup
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/CyberRecon.git
-    cd CyberRecon
-    ```
+This Python tool helps you perform **manual Google dorking** to discover potentially sensitive or misconfigured resources exposed online for a given domain. It generates Google search queries based on common dork patterns and saves them with a timestamp.
 
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+---
 
-3. Set environment variables for the APIs:
-    - **SERPAPI_KEY**: Get an API key from [SerpAPI](https://serpapi.com/).
-    - **GITHUB_TOKEN**: Generate a personal access token from [GitHub](https://github.com/settings/tokens).
+## 🛠 Features
 
-    ```bash
-    export SERPAPI_KEY="your_serpapi_key"
-    export GITHUB_TOKEN="your_github_token"
-    ```
+- Automatically generates multiple Google dorking queries
+- Provides direct links to manually open in a browser
+- Saves all results with a timestamp to `google_results.txt`
+- User-friendly terminal interface with ASCII-styled banner
 
-4. Run the script:
-    ```bash
-    python cyberrecon.py
-    ```
+---
 
-### Disclaimer
-This tool is intended for ethical use only. Ensure you have authorization to scan the targets and are following all relevant laws and guidelines.
+## 📦 Requirements
+
+- Python 3.x
+- [`rich`](https://pypi.org/project/rich/) for colored terminal output
+
+Install `rich` using pip:
+
+```bash
+pip install rich
+```
+
+---
+
+## 🚀 Usage
+
+```bash
+python google_dorker.py
+```
+
+Then enter the target domain when prompted (e.g., `example.com`).
+
+---
+
+## 📁 Output
+
+Results will be saved in a file called:
+
+```
+google_results.txt
+```
+
+Each result includes:
+
+- Timestamp
+- Target domain
+- Search query link (manually open in a browser)
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended for **educational and ethical use only**. Do not use it to target systems without proper authorization. Misuse of this tool may lead to legal consequences.
+
+---
+
+## 👨‍💻 Author
+
+Made with 💻 by Surya Teja Devi
